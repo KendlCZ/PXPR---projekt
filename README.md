@@ -1,9 +1,4 @@
-# Repozitář Vizitka
+# Projekt Mrázková Ifkovich
 
-První repozitář v GitHubu
-
-Výsledkem je [Webová stránka](https://kendlcz.github.io/Vizitka/).
-
-## Kočka
-
-![Kočka](images.jpg)
+Co to zatím je?
+netušíme ani jeden.
